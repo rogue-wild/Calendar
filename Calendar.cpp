@@ -3,7 +3,11 @@
 #include<iomanip>
 
 using namespace std;
-
+/*
+fDay-> First day in current Month
+cMonth-> Current Month
+nDay-> Number of days
+*/
 int main(){
  int year, fDay, cMonth=1, nDays;
  cout<<"Enter the year for which you want the calender for: ";
