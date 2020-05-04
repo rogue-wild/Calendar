@@ -5,3 +5,4 @@ This a Calendar made in C++
 <hr>
 Algorithm on how to find the day of a week: https://www.hackerearth.com/blog/developers/how-to-find-the-day-of-a-week/
 <hr>
+Any suggestions for making this a standalone website using C++'s .cgi extension will be appreciated.
